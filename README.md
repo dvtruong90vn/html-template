@@ -1,7 +1,7 @@
 # truong.github.io
 html template
 
-https://dvtruong90vn.github.io/truong.github.io/basic-opl/
+<a href="/basic-opl">basic-opl</a>
 
 https://dvtruong90vn.github.io/truong.github.io/Bootslander/
 
